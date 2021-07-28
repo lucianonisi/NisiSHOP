@@ -2,7 +2,7 @@
   "name": "nisishop",
   "version": "1.0.0",
   "description": "NisiSHOP",
-  "main": "index.html",
+  "main": "build/index.html",
   "dependencies": {
     "axios": "^0.21.1",
     "react-router-dom": "^5.2.0",
